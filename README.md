@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**AstrivoxStudios/AstrivoxStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Astrivox Studios
 
-Here are some ideas to get you started:
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/astrivoxstudios/count.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice
+
+|Language|Proficiency|
+|---|---|
+Lua | ⭐⭐⭐
+GOLANG | ⭐⭐
+CSS | ⭐⭐
+HTML | ⭐⭐
+Python | ⭐⭐
+
+## GitHub Statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrivoxstudios" alt="astrivoxstudios" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=astrivoxstudios&count_private=true&show_icons=true" alt="astrivoxstudios" /></p>
