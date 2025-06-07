@@ -25,3 +25,7 @@ Python | ⭐⭐
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/AstrivoxStudios/AstrivoxStudios/output/snake.svg" alt="Snake animation" />
+
+###
