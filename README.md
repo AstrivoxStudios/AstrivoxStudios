@@ -1,6 +1,5 @@
 
 <h2 align="center">Astrivox Studios</h2>
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
