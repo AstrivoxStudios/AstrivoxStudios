@@ -1,9 +1,5 @@
 
 # Astrivox Studios
-
-## Visitor Count
-  <img src="https://profile-counter.glitch.me/astrivoxstudios/count.svg" />
-
 ###
 
 <div align="center">
