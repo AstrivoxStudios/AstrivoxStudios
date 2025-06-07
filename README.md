@@ -1,5 +1,5 @@
 
-# Astrivox Studios
+<h2 align="center">Astrivox Studios</h2>
 ###
 
 <div align="center">
