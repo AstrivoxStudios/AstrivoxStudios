@@ -39,14 +39,13 @@
 
 <h2 align="center"> Languages</h2>
 <h2 align="center">⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice</h2>
-
-|Language|Proficiency|
-|---|---|
-Lua | ⭐⭐⭐
-GOLANG | ⭐⭐
-CSS | ⭐⭐
-HTML | ⭐⭐
-Python | ⭐⭐
+                      |Language|Proficiency|
+                      |---|---|
+                      Lua | ⭐⭐⭐
+                      GOLANG | ⭐⭐
+                      CSS | ⭐⭐
+                      HTML | ⭐⭐
+                      Python | ⭐⭐
 
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
