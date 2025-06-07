@@ -37,16 +37,6 @@
 
 ###
 
-<h2 align="center"> Languages</h2>
-<h2 align="center">⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice</h2>
-|Language|Proficiency|
-|---|---|
-Lua | ⭐⭐⭐
-GOLANG | ⭐⭐
-CSS | ⭐⭐
-HTML | ⭐⭐
-Python | ⭐⭐
-
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AstrivoxStudios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Statistics" height="150" alt="stats graph"  />
