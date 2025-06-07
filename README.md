@@ -40,13 +40,13 @@
 <h2 align="center"> Languages</h2>
 <h2 align="center">⭐⭐⭐ Proficient | ⭐⭐ Intermediate | ⭐ Novice</h2>
 
-<h2 align="center">|Language|Proficiency|</h2>
-<h2 align="center">|---|---|</h2>
-<h2 align="center">Lua | ⭐⭐⭐</h2>
-<h2 align="center">GOLANG | ⭐⭐</h2>
-<h2 align="center">CSS | ⭐⭐</h2>
-<h2 align="center">HTML | ⭐⭐</h2>
-<h2 align="center">Python | ⭐⭐</h2>
+|Language|Proficiency|
+|---|---|
+Lua | ⭐⭐⭐
+GOLANG | ⭐⭐
+CSS | ⭐⭐
+HTML | ⭐⭐
+Python | ⭐⭐
 
 <h2 align="center">GitHub Statistics</h2>
 <div align="center">
